@@ -1,7 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:craft_corner/screens/home/product_widget.dart';
-// import 'package:craft_corner/screens/home/product_widget.dart';
 import 'package:craft_corner/widgets/app_bar.dart';
 import 'package:craft_corner/widgets/rounded_image.dart';
 import 'package:craft_corner/widgets/search_bar.dart';
@@ -9,7 +8,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import '../../../constants/image_strings.dart';
 import '../../../constants/sizes.dart';
-// import 'package:craft_corner/screens/products/product_list_screen.dart';
 class HomePage extends StatefulWidget {
   const HomePage({super.key,});
 
