@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396546999248",
+    "project_id": "epics-476d9",
+    "storage_bucket": "epics-476d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396546999248:android:04049fcda271f309096fd5",
+        "android_client_info": {
+          "package_name": "com.example.craft_corner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNrOP5Uobz8h3nxG_aSKiK7jMh32-gHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
